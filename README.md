@@ -4,4 +4,4 @@ This repository encases some code I have written designed to demonstrate my abil
 
 
 # Shortcuts
-* ![Simple Web Crawler with SQL database](https://github.com/CyberJosie/Crawler-Examples/tree/main/examples/web_crawler_sql_example)
+* ![Whiskey Web Crawler + SQL](https://github.com/CyberJosie/Crawler-Examples/tree/main/examples/web_crawler_sql_example)
